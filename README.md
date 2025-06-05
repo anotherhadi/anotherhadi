@@ -3,9 +3,10 @@
 # Hi there! 👋
 
 <p align="center">
-  I'm <strong>Hadi</strong>, a French developer, working in infosec, enthusiastic about nix, golang & blockchains. ☁️ 
+  I'm <strong>Hadi</strong>, a French infosec engineer passionate about Linux/NixOS, blockchains & FOSS.
+  Hacking with Go, exploring open tech, and contributing whenever I can 🐧
   <br/>I deeply value open-source projects & actively seek ways to contribute to the community.
-  <br/>I enjoy the challenge of reimagining existing apps & scripts in my own unique way.
+  <br/>I enjoy the challenge of reimagining existing programs & scripts in my own unique way.
   <br/>By creating these projects from scratch, I can ensure complete control over every aspect of their design and functionality.
 </p>
 
