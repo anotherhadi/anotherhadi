@@ -1,11 +1,13 @@
 # Hi there! 👋
 
 <p align="center">
-  I'm <strong>Hadi</strong>, an infosec engineer passionate about Linux/NixOS, blockchains & FOSS.
-  Hacking with Go, exploring open tech, and contributing whenever I can 🐧
-  <br/>I deeply value open-source projects & actively seek ways to contribute to the community.
-  <br/>I enjoy the challenge of reimagining existing programs & scripts in my own unique way.
-  <br/>By creating these projects from scratch, I can ensure complete control over every aspect of their design and functionality.
+  I'm Hadi, an infosec engineer passionate about Linux/NixOS, blockchains, OSINT & FOSS. Hacking with Go, exploring open tech, and contributing whenever I can 🐧
+  <br/>I enjoy the challenge of reimagining existing programs & scripts in my own unique way. By creating these projects from scratch, I can ensure complete control over every aspect of their design and functionality.
+</p>
+
+<p align="center">
+Send me a mail to <a href="mailto:anotherhadi.clapped234@passmail.net">anotherhadi.clapped234@passmail.net</a> and I'll respond whenever I can.
+<br/>Use my <a href="https://hadi.diy/anotherhadi.asc">gpg key</a> for secure communication.
 </p>
 
 <p align="center">
