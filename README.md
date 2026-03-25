@@ -7,7 +7,7 @@
 
 <p align="center">
 Send me a mail to <a href="mailto:anotherhadi.clapped234@passmail.net">anotherhadi.clapped234@passmail.net</a> and I'll respond whenever I can.
-<br/>Use my <a href="https://hadi.diy/anotherhadi.asc">gpg key</a> for secure communication.
+<br/>Use my <a href="https://hadi.icu/anotherhadi.asc">gpg key</a> for secure communication.
 </p>
 
 <p align="center">
