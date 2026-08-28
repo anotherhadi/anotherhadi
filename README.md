@@ -21,4 +21,4 @@ and i also keep a pile of cybersecurity cheatsheets, in [sec-notes](https://gith
 
 ---
 
-if you want to support what i do, there's [ko-fi](https://ko-fi.com/anotherhadi).
+if you want to support what i do, there's [my lightning address](https://hadi.icu/donate).
