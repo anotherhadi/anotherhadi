@@ -2,6 +2,8 @@
 
 infosec engineer passionate about linux/nixos, blockchains, osint & foss. hacking with go, exploring open tech, and contributing whenever i can!
 
+i love TUIs a bit too much, and i spend way too much time in the terminal.
+
 ## projects
 
 i love building things myself, from scratch, just to understand how they really work. a few i'm working on:
